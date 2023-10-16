@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Sys\SysUtility\SysUtility.csproj" />
+    <ProjectReference Include="..\SysUtility\SysUtility.csproj" />
   </ItemGroup>
 
 </Project>
